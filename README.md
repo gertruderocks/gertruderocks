@@ -2,7 +2,7 @@
 
 I'm a technical communicator exploring AI, structured content, developer tooling, and multilingual communication.
 
-## Current focus
+## Currently exploring
 
 - 🤖 AI & agentic development
 - 💻 TypeScript
