@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Meghan.
 
-<!--
-**gertruderocks/gertruderocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a technical communicator exploring AI, structured content, developer tooling, and multilingual communication.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 AI & agentic development
+- 💻 TypeScript
+- ⚙️ GitHub & modern developer workflows
+- 📝 Structured content (Markdown & DITA)
+- 🐍 Python for automation & NLP
+- 🇳🇱 Dutch
+
+> Kleine commits. Grote toekomst. 🇳🇱    
