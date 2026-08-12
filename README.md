@@ -1,14 +1,13 @@
 ## Hi, I'm Meghan.
 
-I'm a technical communicator exploring AI, structured content, developer tooling, and multilingual communication.
+I'm a technical communicator building projects in AI evaluation, multilingual NLP, and language technology.
 
 ## Currently exploring
 
-- 🤖 AI & agentic development
-- 💻 TypeScript
-- ⚙️ GitHub & modern developer workflows
-- 📝 Structured content (Markdown & DITA)
-- 🐍 Python for automation & NLP
-- 🇳🇱 Dutch
+- AI evaluation and reproducible evaluation workflows
+- Multilingual NLP and language technology
+- Retrieval and cross-lingual evaluation
+- 🐍 Python and structured artifacts
+- Technical documentation and developer workflows
 
 > Kleine commits. Grote toekomst. 🇳🇱    
